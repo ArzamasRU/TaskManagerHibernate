@@ -4,7 +4,7 @@
 java 1.8
 
 ### Technology stack ###
-Hibernate ORM, Apache Maven, MySQL, SOAP, SQL
+Hibernate ORM, Apache Maven, MySQL, SOAP, JSON, SQL
 
 ### Developer ###
 name: Lavrov Kirill
